@@ -45,9 +45,11 @@
 		<div class="separator">
 			<div class="news">
 				<h3>Admission à 42</h3>
-				<p>Ma candidature à MyDigitalSchool n'ayant pas aboutie, j'ai décidé de tenter ma chance à l'école 42.</p>
+				<p>Ma candidature à MyDigitalSchool n'ayant pas aboutie, j'ai décidé de tenter ma chance à l'école 42 perpignan.</p>
 				<br>
 				<p>Mes premiers test d'admissions ont été très concluant, j'attend maintenant le début de la piscine pour faire mes preuves.</p>
+				<br>
+				<p>Ma piscine d'admission à Perpignan s'est déroulé merveilleusement bien ayant atteint le niveau 11 à 95% ! Je suis maintenant dans l'attente des résultats.</p>
 				<div class="atouts">
 					<h3>Atouts</h3>
 					<h4>Programmation front-end:</h4>

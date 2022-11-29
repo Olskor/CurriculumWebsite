@@ -48,6 +48,8 @@
 				<p>My application to MyDigitalSchool was not successful, so I decided to try my luck at 42.</p>
 				<br>
 				<p>My first admissions test was very successful, I'm now waiting for the pool to start so I can prove myself.</p>
+				<br>
+				<p>My applying pool at Perpignan have been marvelous, i've got 11 lvl to 95% ! I'm now waiting for results.</p>
 				<div class="atouts">
 					<h3>Strengths</h3>
 					<h4>Front-end:</h4>
