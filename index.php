@@ -165,8 +165,8 @@
 		<div class="github-post">
 			<div class="animated-left">
 				<p>Ce programme permet de générer une image de la suite de Mandelbrot. Le code a été fait dans mon temps libre durant ma licence.</p>
-				<p>Le programme peut générer une image 1000x1000 de la suite de Mandelbrot en moins de 10 secondes.</p>
-				<a style="text-decoration: none; color:var(--link-color);" href="https://github.com/AJean-Baptiste/madelbrotcurve">page GitHub de la suite de Mandelbrot</a>
+				<p>Le programme peut générer une image 1000x1000 de la suite de Mandelbrot en 1,5 secondes.</p>
+				<a style="text-decoration: none; color:var(--link-color);" href="https://github.com/Olskor/MandelbrotSet">page GitHub de la suite de Mandelbrot</a>
 			</div>
 			<img class="animated-right zoom" src="images/mandelbrot.jpg" target="_blank"></img>
 		</div>

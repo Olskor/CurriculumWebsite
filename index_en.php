@@ -165,8 +165,8 @@
 		<div class="github-post">
 			<div class="animated-left">
 				<p>This program allows you to generate an image of the Mandelbrot set. The code was done during my free time while studying for my licence.</p>
-				<p>The program can generate a 1000x1000 picture of the Mandelbrot set in less than 10 seconds.</p>
-				<a style="text-decoration: none; color:var(--link-color);" href="https://github.com/AJean-Baptiste/madelbrotcurve">GitHub page of the Mandelbrot set</a>
+				<p>The program can generate a 1000x1000 picture of the Mandelbrot set in less than 2 seconds.</p>
+				<a style="text-decoration: none; color:var(--link-color);" href="https://github.com/Olskor/MandelbrotSet">GitHub page of the Mandelbrot set</a>
 			</div>
 			<img class="animated-right zoom" src="images/mandelbrot.jpg" target="_blank"></img>
 		</div>
