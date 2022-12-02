@@ -397,6 +397,15 @@ p {
 	align-self: center;
 	margin: 10px;
 }
+.github-post iframe {
+	flex-grow: 1;
+    flex-basis: 0;
+	width: 20%;
+	aspect-ratio: 16 / 9;
+	height: auto;
+	align-self: center;
+	margin: 10px;
+}
 @media (max-width: 800px) {
   .github-post img {
     width: 100%;

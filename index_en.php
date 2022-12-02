@@ -217,6 +217,17 @@
 			</div>
 			<img class="animated-right zoom" src="images/parabole.png"></img>
 		</div>
+		<div class="hline"></div>
+		<br>
+		<h3>Julia set dynamic shader</h3>
+		<div class="github-post">
+			<div class="animated-left">
+				<p>This is a glsl shader i made while waiting to go to 42 piscine.</p>
+				<p>It's available on ShaderToy and is completely dynamic, you can select a julia set by clicking anywhere on the screen, it will change dynamicly and the resolution depend on your screen, thanks to gpu calculation the precision is greater and the coputing time is way faster.</p>
+				<a style="text-decoration: none; color:var(--link-color);" href="https://www.shadertoy.com/view/DsjSRD" target="_blank">ShaderToy page of the julia set</a>
+			</div>
+			<iframe class="animated-right zoom" frameborder="0" src="https://www.shadertoy.com/embed/DsjSRD?gui=true&t=10&paused=true&muted=false" allowfullscreen></iframe>
+		</div>
 	</div>
 	<div class="contact" id="contact">
 		<h2 class="contact-title">Contact:</h2>

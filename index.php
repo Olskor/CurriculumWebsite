@@ -217,6 +217,17 @@
 			</div>
 			<img class="animated-right zoom" src="images/parabole.png"></img>
 		</div>
+		<div class="hline"></div>
+		<br>
+		<h3>Shader dynamique ensemble de Julia</h3>
+		<div class="github-post">
+			<div class="animated-left">
+				<p>Ceci est un shader sous glsl fait lors de mon attente de resultat de la piscine de 42.</p>
+				<p>Ce shader est disponnible sur ShaderToy et est completement dynamique, vous pouvez choisir un ensemble parmi les ensembles de Julia en cliquant, tout est généré en temps réel et la resolution de rendu depend de la resolution de votre écran> Grâce au calcul par gpu le temps de rendu est grandement acceleré et la resolution bien plus grande.</p>
+				<a style="text-decoration: none; color:var(--link-color);" href="https://www.shadertoy.com/view/DsjSRD" target="_blank">Page ShaderToy de l'ensemble de Julia</a>
+			</div>
+			<iframe class="animated-right zoom" frameborder="0" src="https://www.shadertoy.com/embed/DsjSRD?gui=true&t=10&paused=true&muted=false" allowfullscreen></iframe>
+		</div>
 	</div>
 	<div class="contact" id="contact">
 		<h2 class="contact-title">Contact:</h2>
