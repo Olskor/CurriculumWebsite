@@ -50,6 +50,8 @@
 				<p>Mes premiers test d'admissions ont été très concluant, j'attend maintenant le début de la piscine pour faire mes preuves.</p>
 				<br>
 				<p>Ma piscine d'admission à Perpignan s'est déroulé merveilleusement bien ayant atteint le niveau 11 à 95% ! Je suis maintenant dans l'attente des résultats.</p>
+				<br>
+				<p>Les résultats sont tombé le 30 novembre, je suis officiellement un membre de 42 j'ai hate de faire ma rentrée en février 2023 !</p>
 				<div class="atouts">
 					<h3>Atouts</h3>
 					<h4>Programmation front-end:</h4>
@@ -142,6 +144,16 @@
 					<div class="description">
 						<p class="periode">de 2018 à 2022</p>
 						<p>Année 1 et 2 en science et technologie 240 ects validés dont 24 en informatique</p>
+					</div>
+				</div>
+				<div class="experience animated-right">
+					<div class="titre">
+						<h4>42 piscine</h4>
+						<p class="lieu">Dames de france, Perpignan, France</p>
+					</div>
+					<div class="description">
+						<p class="periode">from oct 31 2022 to nov 25 2022</p>
+						<p>1 mois d'insertion au seins de 42 pour devenir futur étudiant. reussi au niveau 11 a 95%</p>
 					</div>
 				</div>
 				<div class="hline"></div>

@@ -50,6 +50,8 @@
 				<p>My first admissions test was very successful, I'm now waiting for the pool to start so I can prove myself.</p>
 				<br>
 				<p>My applying pool at Perpignan have been marvelous, i've got 11 lvl to 95% ! I'm now waiting for results.</p>
+				<br>
+				<p>The results came on November 30th, i'm officially a student of 42 ! i can't wait to start my study in February 2023</p>
 				<div class="atouts">
 					<h3>Strengths</h3>
 					<h4>Front-end:</h4>
@@ -140,8 +142,18 @@
 						<p class="lieu">Valrose université Nice, France</p>
 					</div>
 					<div class="description">
-						<p class="periode">de 2018 à 2022</p>
+						<p class="periode">from 2018 to 2022</p>
 						<p>Year 1 and 2 in science and technology 240 ects validated including 24 in computer science</p>
+					</div>
+				</div>
+				<div class="experience animated-right">
+					<div class="titre">
+						<h4>42 piscine</h4>
+						<p class="lieu">Dames de france, Perpignan, France</p>
+					</div>
+					<div class="description">
+						<p class="periode">from oct 31 2022 to nov 25 2022</p>
+						<p>1 month of study to become a 42 student. Ended with 11 lvl 95%</p>
 					</div>
 				</div>
 				<div class="hline"></div>
