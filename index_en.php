@@ -178,9 +178,10 @@
 			<div class="animated-left">
 				<p>This program allows you to generate an image of the Mandelbrot set. The code was done during my free time while studying for my licence.</p>
 				<p>The program can generate a 1000x1000 picture of the Mandelbrot set in less than 2 seconds.</p>
+				<p>I also created a shader version on ShaderToy which you can see on the right.</p>
 				<a style="text-decoration: none; color:var(--link-color);" href="https://github.com/Olskor/MandelbrotSet">GitHub page of the Mandelbrot set</a>
 			</div>
-			<img class="animated-right zoom" src="images/mandelbrot.jpg" target="_blank"></img>
+			<iframe class="animated-right zoom" frameborder="0" src="https://www.shadertoy.com/embed/Ds2SRD?gui=true&t=10&paused=true&muted=false" allowfullscreen></iframe>
 		</div>
 		<div class="hline"></div>
 		<br>

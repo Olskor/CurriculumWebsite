@@ -152,7 +152,7 @@
 						<p class="lieu">Dames de france, Perpignan, France</p>
 					</div>
 					<div class="description">
-						<p class="periode">from oct 31 2022 to nov 25 2022</p>
+						<p class="periode">du 31 oct 2022 au 25 nov 2022</p>
 						<p>1 mois d'insertion au seins de 42 pour devenir futur étudiant. reussi au niveau 11 a 95%</p>
 					</div>
 				</div>
@@ -178,9 +178,10 @@
 			<div class="animated-left">
 				<p>Ce programme permet de générer une image de la suite de Mandelbrot. Le code a été fait dans mon temps libre durant ma licence.</p>
 				<p>Le programme peut générer une image 1000x1000 de la suite de Mandelbrot en 1,5 secondes.</p>
+				<p>J'ai aussi crée une version dynamique sur ShaderToy visible en exemple a droite.</p>
 				<a style="text-decoration: none; color:var(--link-color);" href="https://github.com/Olskor/MandelbrotSet">page GitHub de la suite de Mandelbrot</a>
 			</div>
-			<img class="animated-right zoom" src="images/mandelbrot.jpg" target="_blank"></img>
+			<iframe class="animated-right zoom" frameborder="0" src="https://www.shadertoy.com/embed/Ds2SRD?gui=true&t=10&paused=true&muted=false" allowfullscreen></iframe>
 		</div>
 		<div class="hline"></div>
 		<br>
