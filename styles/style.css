@@ -303,7 +303,7 @@ p {
 	background-color: var(--object-color);
 }
 .progress-bar-exp-backend.animated.active {
-	width: 50%;
+	width: 70%;
 }
 .progress-bar-exp-english.animated {
 	width: 0%;
@@ -409,6 +409,9 @@ p {
 @media (max-width: 800px) {
   .github-post img {
     width: 100%;
+  }
+  .github-post iframe {
+  	width: 100%;
   }
 }
 .contact-title{

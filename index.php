@@ -44,14 +44,9 @@
 		</div>
 		<div class="separator">
 			<div class="news">
-				<h3>Admission à 42</h3>
-				<p>Ma candidature à MyDigitalSchool n'ayant pas aboutie, j'ai décidé de tenter ma chance à l'école 42 perpignan.</p>
+				<h3>Membre de l'école 42</h3>
+				<p>Mon aventure a 42 continue, niveau 3, j'ai fini les projets libft, ftprintf, get_next_line, push_swap, fdf et minitalk, je suis actuellemt sur le projet minishell.</p>
 				<br>
-				<p>Mes premiers test d'admissions ont été très concluant, j'attend maintenant le début de la piscine pour faire mes preuves.</p>
-				<br>
-				<p>Ma piscine d'admission à Perpignan s'est déroulé merveilleusement bien ayant atteint le niveau 11 à 95% ! Je suis maintenant dans l'attente des résultats.</p>
-				<br>
-				<p>Les résultats sont tombé le 30 novembre, je suis officiellement un membre de 42 j'ai hate de faire ma rentrée en février 2023 !</p>
 				<div class="atouts">
 					<h3>Atouts</h3>
 					<h4>Programmation front-end:</h4>
@@ -83,7 +78,7 @@
 						<p>C#, php, C, C++, python</p>
 						<button class="button-details" type="button" data-bs-toggle="collapse" data-bs-target="#collapseBack" aria-expanded="false" aria-controls="collapseBack">Details</button>	
 					</div>
-					<div class="progress-bar-exp"><div class="progress-bar-exp-backend animated">50%</div></div>
+					<div class="progress-bar-exp"><div class="progress-bar-exp-backend animated">70%</div></div>
 					
 					<div class="collapse" id="collapseBack">
 						<div style = "display: flex; margin-top: 10px;">
@@ -94,8 +89,8 @@
 								Python<br>
 							</div>
 							<div style="width:100%;">
-								<div class="progress-bar-ext"><div class="progress-bar-ext-value" style="width: 40%;">40%</div></div>
 								<div class="progress-bar-ext"><div class="progress-bar-ext-value" style="width: 60%;">60%</div></div>
+								<div class="progress-bar-ext"><div class="progress-bar-ext-value" style="width: 80%;">80%</div></div>
 								<div class="progress-bar-ext"><div class="progress-bar-ext-value" style="width: 20%;">20%</div></div>
 								<div class="progress-bar-ext"><div class="progress-bar-ext-value" style="width: 80%;">80%</div></div>
 							</div>

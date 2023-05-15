@@ -45,13 +45,8 @@
 		<div class="separator">
 			<div class="news">
 				<h3>Applying to 42</h3>
-				<p>My application to MyDigitalSchool was not successful, so I decided to try my luck at 42.</p>
+				<p>My Adventure at 42 continue, Level 3, the projects: libft, ftprintf, get_next_line, push_swap, fdf and minitalk are ended and i'm starting minishell.</p>
 				<br>
-				<p>My first admissions test was very successful, I'm now waiting for the pool to start so I can prove myself.</p>
-				<br>
-				<p>My applying pool at Perpignan have been marvelous, i've got 11 lvl to 95% ! I'm now waiting for results.</p>
-				<br>
-				<p>The results came on November 30th, i'm officially a student of 42 ! i can't wait to start my study in February 2023</p>
 				<div class="atouts">
 					<h3>Strengths</h3>
 					<h4>Front-end:</h4>
@@ -94,8 +89,8 @@
 								Python<br>
 							</div>
 							<div style="width:100%;">
-								<div class="progress-bar-ext"><div class="progress-bar-ext-value" style="width: 40%;">50%</div></div>
 								<div class="progress-bar-ext"><div class="progress-bar-ext-value" style="width: 60%;">60%</div></div>
+								<div class="progress-bar-ext"><div class="progress-bar-ext-value" style="width: 80%;">80%</div></div>
 								<div class="progress-bar-ext"><div class="progress-bar-ext-value" style="width: 20%;">20%</div></div>
 								<div class="progress-bar-ext"><div class="progress-bar-ext-value" style="width: 80%;">80%</div></div>
 							</div>
@@ -105,9 +100,7 @@
 					<h4>English:</h4>
 					<p>C1 Level</p>
 					<div class="progress-bar-exp"><div class="progress-bar-exp-english animated">85%</div></div>
-					<br>
-					<h4>Frameworks/Software:</h4>
-					<p>Eclipse, IntelliJ, Visual studio, Photoshop, Blender, Unity 3D.</p>
+					bar<p>Eclipse, IntelliJ, Visual studio, Photoshop, Blender, Unity 3D.</p>
 					<br>
 				</div>
 			</div>
